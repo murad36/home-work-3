@@ -1,0 +1,15 @@
+C:\Users\Пушка\Desktop\home work 3\bin\Debug\net7.0\home work 3.exe
+C:\Users\Пушка\Desktop\home work 3\bin\Debug\net7.0\home work 3.deps.json
+C:\Users\Пушка\Desktop\home work 3\bin\Debug\net7.0\home work 3.runtimeconfig.json
+C:\Users\Пушка\Desktop\home work 3\bin\Debug\net7.0\home work 3.dll
+C:\Users\Пушка\Desktop\home work 3\bin\Debug\net7.0\home work 3.pdb
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.csproj.AssemblyReference.cache
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.AssemblyInfoInputs.cache
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.AssemblyInfo.cs
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.csproj.CoreCompileInputs.cache
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.dll
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\refint\home work 3.dll
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.pdb
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\home work 3.genruntimeconfig.cache
+C:\Users\Пушка\Desktop\home work 3\obj\Debug\net7.0\ref\home work 3.dll
